@@ -4,7 +4,7 @@
    - Sensor ultrasónico HC-SR04: Distancia
    - Indicadores: Servo + LEDs + Buzzer pasivo
 
-   Autor: Guillermo Cid Ampuero
+   
    ============================================================== */
 
 #include <DHT.h>
