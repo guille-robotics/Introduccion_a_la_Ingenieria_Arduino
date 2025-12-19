@@ -9,7 +9,6 @@
          Rojo    : Alto
    - Si el consumo es extremo, suena buzzer (sobrecarga)
 
-   Hecho para Tinkercad / Arduino UNO
    ======================================================= */
 
 /// ------- Pines -------
